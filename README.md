@@ -1,7 +1,7 @@
 ###
 
 <h1 align= "center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Serif&size=30&duration=4000&pause=1000&color=71B7FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Michael+Sigalov;Android+Developer;I+like+learn+something+new!!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Serif&size=30&duration=4000&pause=1000&color=71B7FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Michael+Sigalov;Android+Developer;I+like+to+learn+something+new!!" alt="Typing SVG" /></a>
 </h1>
 
 ###
@@ -19,7 +19,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6Nm53MHRjdTMzcmVtNmo1emZqd29sZ29vZWlkdHZpZHRsenRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp" width="25%" height="25%" align="right">
 
 <p>
-    I am a mobile developer with experience in Fullstack development. I have been studying mobile development since 2021 and have several small pet projects that I write in Kotlin. I also have experience with Java, C# and other technologies. My goal is to create high-quality and user-friendly mobile applications that solve real user problems.
+    I am a mobile developer with experience in Fullstack development. I have been studying mobile development since 2021 and have several pet projects that I wrote in Kotlin. I also have experience with Java, C# and other technologies. My goal is to create high-quality and user-friendly mobile applications that solve real user problems.
     
 - 🏆 I'm pretty good at mobile development.
 - 🏆 Currently learning about Jetpack Compose and the latest frameworks most people used.
