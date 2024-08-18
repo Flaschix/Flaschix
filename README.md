@@ -19,7 +19,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6Nm53MHRjdTMzcmVtNmo1emZqd29sZ29vZWlkdHZpZHRsenRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp" width="25%" height="25%" align="right">
 
 <p>
-    I am a mobile developer with experience in Fullstack development. I have been studying mobile development since 2022 and have several pet projects that I wrote in Kotlin. I also have experience with Java, C# and other technologies. My goal is to create high-quality and user-friendly mobile applications that solve real user problems.
+    Hi there! I'm a developer with seven years of programming experience in various languages such as Java, Kotlin, C#, C++, and JavaScript. I love learning new technologies and developing in IT. I've worked with lots of different game engines and libraries, including Unity, Phaser 3, and LibGdx. My goal is to create high-quality and user-friendly mobile apps that solve real user problems.
     
 - 🏆 I'm pretty good at mobile development.
 - 🏆 Currently learning about Jetpack Compose and the latest frameworks most people used.
