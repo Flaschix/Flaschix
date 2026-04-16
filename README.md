@@ -30,69 +30,60 @@
 
 ###
 
-<div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-</div>
-
-###
-
-</br>
-
-<h2 align="center">💖 Favorite projects</h2>
-
 <table align="center">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/flaschix/ShoppingAPP">
-        <img width="100%" src="https://www.inventiva.co.in/wp-content/uploads/2022/09/shopping-apps.jpeg" alt="ShoppingAPP Repository" />
-      </a>
-      <br>
-      <a href="https://github.com/Flaschix/ShoppingAPP">
-        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=flaschix&repo=ShoppingAPP&theme=tokyonight&show_owner=true&hide_border=true" alt="ShoppingAPP GitHub Stats" />
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Flaschix/Time_For_Sum">
-        <img width="100%" src="https://play-lh.googleusercontent.com/QkSd303K6kV0ktt7BUDMu_Uc5e9n3CVysS8aAVQ525RmlwolAt07RsJeMD9_V8oT3EU=w526-h296-rw" alt="Time_For_Sum Repository" />
+    <td >
+      <a href="https://developer.android.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
       </a>
-      <br>
-      <a href="https://github.com/flaschix/Time_For_Sum">
-        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=flaschix&repo=Time_For_Sum&theme=tokyonight&show_owner=true&hide_border=true" alt="Time_For_Sum GitHub Stats" />
+    </td>
+    <td >
+      <a href="https://www.w3schools.com/cs/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      </a>
+    </td>
+    <td >
+      <a href="https://firebase.google.com/">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+      </a>
+    </td>
+    <td >
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+      </a>
+    </td>
+    <td >
+      <a href="https://www.java.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      </a>
+    </td>
+    <td >
+      <a href="https://kotlinlang.org">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" />
+      </a>
+    </td>
+    <td >
+      <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      </a>
+    </td>
+    <td >
+      <a href="https://www.oracle.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+      </a>
+    </td>
+    <td >
+      <a href="https://www.postgresql.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
       </a>
     </td>
   </tr>
 </table>
-
-</br>
 
 ###
 
